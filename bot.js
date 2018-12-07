@@ -15,7 +15,7 @@ client.on('message', message => {
  
 client.on('ready', async() => {
 var server = "517785905361190924"; // ايدي السررفر
-var channel = "517785938198396960";//ايدي الروم
+var channel = "520521586856427542";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , **')
     },305);
@@ -27,7 +27,7 @@ client.login(process.env.BOT_TOKEN);
  
 client2.on('ready', async() => {
 var server = "517785905361190924"; // ايدي السررفر
-var channel = "517785971454902273";//ايدي الروم
+var channel = "520521586856427542";//ايدي الروم
     setInterval(()=>{
     client2.guilds.get(server).channels.get(channel).send('**Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , **')
     },305);
@@ -38,7 +38,7 @@ client2.login(process.env.BOT_TOKEN2);
  
 client3.on('ready', async() => {
 var server = "517785905361190924"; // ايدي السررفر
-var channel = "517785990010634259";//ايدي الروم
+var channel = "520521586856427542";//ايدي الروم
     setInterval(()=>{
     client3.guilds.get(server).channels.get(channel).send('**Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , **')
     },305);
@@ -49,7 +49,7 @@ client3.login(process.env.BOT_TOKEN3);
  
 client4.on('ready', async() => {
 var server = "517785905361190924"; // ايدي السررفر
-var channel = "517786006951559168";//ايدي الروم
+var channel = "520521586856427542";//ايدي الروم
     setInterval(()=>{
     client4.guilds.get(server).channels.get(channel).send('**Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , **')
     },305);
